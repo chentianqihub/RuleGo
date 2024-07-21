@@ -1,5 +1,7 @@
 #!name=Block Advertising
 #!desc=Block Advertising
+#!repo=https://github.com/ConnersHua/RuleGo/tree/master/Surge
+#!category=DivineEngine
 
 [Rule]
 
